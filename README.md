@@ -2,6 +2,9 @@
 
 Welcome to the Regularization Techniques Repository! This repository is designed to help you refine your skills with regularization techniques in machine learning. It includes various Jupyter notebooks that illustrate core concepts and practical applications.
 
+![Example GIF](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*uf2HO1I1XyPVf4qVt_HeWg.gif)
+
+
 ## Files
 
 ### `Lin_Regression.ipynb`
